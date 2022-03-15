@@ -9,9 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@vanilla-extract/css": "^1.6.8",
-    "@vanilla-extract/recipes": "^0.2.3",
-    "@vanilla-extract/sprinkles": "^1.4.0",
     "next": "12.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
@@ -19,6 +16,11 @@
   "devDependencies": {
     "@types/node": "17.0.21",
     "@types/react": "17.0.40",
+    "@vanilla-extract/babel-plugin": "^1.1.4",
+    "@vanilla-extract/css": "^1.6.8",
+    "@vanilla-extract/next-plugin": "^2.0.1",
+    "@vanilla-extract/recipes": "^0.2.3",
+    "@vanilla-extract/sprinkles": "^1.4.0",
     "eslint": "8.11.0",
     "eslint-config-next": "12.1.0",
     "typescript": "4.6.2"
