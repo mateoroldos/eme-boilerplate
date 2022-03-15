@@ -1,4 +1,4 @@
-# EME Boilerlate
+# EME Boilerlate Vanilla-extract
 
 Repository to serve as a base for Next.js development at EME Studio.
 
@@ -9,6 +9,7 @@ Repository to serve as a base for Next.js development at EME Studio.
 - Vanilla-extract
   - Sprinkles API (Utility classes)
   - Recipes API (Multi-variant styles)
+- Storybook
 
 ## Project Architecture
 
